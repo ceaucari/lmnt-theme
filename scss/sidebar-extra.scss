@@ -1,0 +1,165 @@
+
+/* --------------------------------------------------------------
+
+Main Layout
+
+----------------------------------------------------------------- */
+
+.extra-wrapper {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+.extra-wrapper.toggled {
+    
+}
+
+.sidebar-extra-wrapper {
+    position: fixed;
+    float: left;
+    width: 0;
+    height: 100%;
+    overflow-y: auto;
+    overflow-x: hidden;
+    background: #000;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+}
+
+.extra-wrapper.toggled .sidebar-extra-wrapper {
+    width: 250px;
+}
+
+.page-content-wrapper {
+    width: auto;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    transition: all 0.5s ease;    
+}
+
+.extra-wrapper.toggled .page-content-wrapper {
+    padding-left: 250px;
+}
+
+.sidebar-extra {
+    position: absolute;
+    top: 0;
+    width: 250px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    overflow: hidden;
+}
+
+/* --------------------------------------------------------------
+
+Toggle button
+
+----------------------------------------------------------------- */
+
+.sidebar-extra-toggle {
+    display: inline-block;
+    position: absolute;
+    top: 10px;
+    z-index: 1000;
+}
+
+.extra-wrapper.toggled .sidebar-extra-toggle {
+    left: -40px;
+}
+
+/* --------------------------------------------------------------
+
+Reset for links
+
+----------------------------------------------------------------- */
+
+.sidebar-extra .dropdown-menu {
+    background-color: transparent;
+    border-radius: 0;
+    position: relative;
+    width: 100%;
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+
+.sidebar-extra .nav .open>a, 
+.sidebar-extra .nav .open>a:hover, 
+.sidebar-extra .nav .open>a:focus {
+  background-color: transparent;
+}
+
+.sidebar-extra li {
+    clear: both;
+}
+
+.sidebar-extra .dropdown-menu .dropdown-menu {
+    display: block;
+    background-color: red;
+}
+
+/* --------------------------------------------------------------
+
+style links
+
+----------------------------------------------------------------- */
+
+.sidebar-extra .dropdown-menu li {
+    /*padding: 0 0 0 5px;*/
+}
+
+.sidebar-extra a { /* color for links with children */
+    color: #555;
+}
+
+.sidebar-extra .dropdown-menu>.active>a { /* style for active links */
+  background-color: #cecece;
+  color: #000;
+}
+
+/* --------------------------------------------------------------
+
+Arrow in links with children
+
+----------------------------------------------------------------- */
+
+.sidebar-extra .caret {
+    /*float: right;*/
+    border: 0;
+}
+
+.sidebar-extra .caret::after {
+  content: '';
+  display: inline-block;
+  height: 11px;
+  width: 8px;
+  position: absolute;
+  top: 50%;
+  bottom: auto;
+  -webkit-transform: translateY(-50%);
+  -moz-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  -o-transform: translateY(-50%);
+  transform: translateY(-50%);
+  right: 1em;
+  background: url(../images/icons/cd-arrow.svg) no-repeat center center;
+  background-size: 8px 11px;
+  -webkit-transition-property: -webkit-transform;
+  -moz-transition-property: -moz-transform;
+  transition-property: transform;
+  -webkit-transition-duration: 0.2s;
+  -moz-transition-duration: 0.2s;
+  transition-duration: 0.2s;
+}
+
+.sidebar-extra .open .caret::after {
+  -webkit-transform: translateY(-50%) rotate(90deg);
+  -moz-transform: translateY(-50%) rotate(90deg);
+  -ms-transform: translateY(-50%) rotate(90deg);
+  -o-transform: translateY(-50%) rotate(90deg);
+  transform: translateY(-50%) rotate(90deg);
+}

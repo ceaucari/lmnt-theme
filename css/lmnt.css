@@ -1,0 +1,643 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\000034}}
+.main-container {
+  min-height: 85vh; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\000038}}
+body.navbar-is-fixed-top,
+body.admin-menu.navbar-is-fixed-top {
+  padding-top: 50px !important; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\0000312}}
+.navbar-inverse {
+  /*background-color: #ffd200;*/
+  background-color: #000;
+  border: 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\0000318}}
+.front .logo {
+  /*display: none;*/ }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\0000322}}
+.alert {
+  margin-bottom: 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\0000326}}
+.front .main-container {
+  margin-top: 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\0000330}}
+.page-title {
+  background-color: #cdcdcd;
+  text-align: center;
+  margin-bottom: 20px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\0000336}}
+.page-title:before, .page-title:after {
+  display: table;
+  content: " "; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\0000341}}
+.page-title h1 {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding: 10px;
+  text-transform: uppercase; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\0000348}}
+#postscript_top {
+  background-color: #f5f5f5;
+  padding: 5em; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\0000353}}
+#postscript_bottom {
+  background-color: #555;
+  padding: 5em; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\0000358}}
+#block-menu-menu-menu-footer {
+  margin: 0 0 25px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\0000359}}
+#block-menu-menu-menu-footer .menu {
+  text-align: center; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\0000360}}
+#block-menu-menu-menu-footer .menu li {
+  display: inline; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\0000361}}
+#block-menu-menu-menu-footer .menu li a {
+  color: white;
+  display: inline-block; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\0000362}}
+#block-menu-menu-menu-footer .menu li a:hover {
+  background: transparent;
+  text-decoration: underline; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\0000367}}
+.logo img {
+  display: inline-block;
+  height: 40px;
+  margin-top: 5px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\0000373}}
+.navbar {
+  margin-bottom: 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\0000377}}
+.filtros-boton {
+  /*margin-top: 5px;*/
+  color: #cecece;
+  height: 40px;
+  margin-top: 5px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\0000385}}
+.filtros-boton:hover {
+  color: #fff; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\0000389}}
+.filtros-boton:focus {
+  color: #fff;
+  outline: none; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\0000394}}
+.main-container {
+  margin-top: 20px;
+  margin-bottom: 20px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\0000399}}
+footer.footer {
+  background: black;
+  margin: 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\00003105}}
+.field-name-field-links {
+  margin-top: 20px;
+  padding: 10px;
+  border-top: 1px solid #eeeeee; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\00003111}}
+.field-name-field-links .field-item {
+  padding: 5px;
+  margin-right: 10px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\00003116}}
+.teaser-image {
+  display: inline-block; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\00003120}}
+.views-field-field-image {
+  display: inline-block;
+  position: relative;
+  /*top: 40px;*/
+  height: 220px;
+  width: 220px;
+  float: right;
+  margin-right: 0px;
+  margin-left: 30px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\00003131}}
+.views-field-language div {
+  display: inline-block;
+  padding: 0 3px;
+  border-radius: 2px;
+  border: 1px solid #aaa;
+  background: #fff;
+  /*margin: 3em auto;*/
+  position: relative; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\00003140}}
+.views-field-language div:after,
+.views-field-language div:before {
+  content: "";
+  width: 0;
+  height: 0;
+  position: absolute;
+  border-left: 0px solid transparent; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\00003149}}
+.views-field-language div:after {
+  border-top: 6px solid #fff;
+  border-right: 7px solid transparent;
+  bottom: -5px;
+  left: 0px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\00003156}}
+.views-field-language div:before {
+  border-top: 7px solid #aaa;
+  border-right: 9px solid transparent;
+  bottom: -7px;
+  left: -1px; }
+
+/*.views-field-language div {
+  display: inline-block;
+  height: 25px;
+  width: 25px;
+  background-color: #eee;
+  padding: 4px;
+          border-radius: 12.5px;
+     -moz-border-radius: 12.5px;
+  -webkit-border-radius: 12.5px;  
+}*/
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\00003174}}
+.views-field-language div:lang(ES) {
+  color: red; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\00003178}}
+.views-field-language div:lang(EN) {
+  color: blue; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\00003182}}
+.views-field-body .field-content {
+  display: block;
+  margin-bottom: 20px;
+  max-height: 150px;
+  overflow: hidden; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\00003190}}
+.views-field-body {
+  margin-top: 20px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\00003194}}
+.views-field-body .fluid-width-video-wrapper {
+  display: none; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\00003198}}
+.views-label-field-tags,
+.field-name-field-tags {
+  display: inline-block; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\00003203}}
+.views-label-field-tags,
+.field-name-field-tags .field-label {
+  height: 25px;
+  width: 25px;
+  background: url(../images/tag.png);
+  text-indent: -9999px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\00003216}}
+.views-field-field-tags .field-content {
+  display: inline-block; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\00003220}}
+.views-field-field-tags .field-content a,
+.field-name-field-tags .field-item {
+  display: inline-block;
+  margin-left: 10px;
+  padding: 3px 5px 3px 5px;
+  background-color: #eeeeee;
+  border-radius: 2px;
+  -moz-border-radius: 2px;
+  -webkit-border-radius: 2px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\00003231}}
+.views-row {
+  display: block;
+  clear: both;
+  border-bottom: 1px solid #cdcdcd;
+  margin-top: 20px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\00003238}}
+.views-row-last {
+  border-bottom: 0px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\00003242}}
+.views-row-1 {
+  margin-top: 10px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\00003246}}
+.views-row h2 {
+  margin-top: 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\00003251}}
+.view-Related .col {
+  padding: 1em;
+  position: relative; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\00003256}}
+.view-Related .card {
+  padding: 1.5em;
+  background-color: #fff;
+  text-align: center;
+  border-radius: 5px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\00003265}}
+.divider {
+  display: block;
+  clear: both;
+  border-bottom: 1px solid #cdcdcd;
+  margin: 20px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\00003272}}
+.view-Related .views-field-title {
+  position: relative; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\00003275}}
+.view-Related .views-field-title .link {
+  /*display: block;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: red;*/ }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\00003284}}
+.scroll-link {
+  position: relative; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\00003288}}
+.views-field-nothing {
+  /*display: block;
+  clear: both;
+  border-bottom: 1px solid #cdcdcd;
+  margin-top: 20px;*/ }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\00003295}}
+html, body {
+  height: 100%;
+  margin: 0px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\00003300}}
+div.codeblock {
+              /*
+padding: 10px;
+border: 0;
+background-color: #c3c3c3;
+color: #555555;overide codefilter module styles */ }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\00003307}}
+code {
+  /* overide bootstrap styles */
+  /*padding: 0px 0px;*/
+  font-size: 90%;
+  color: #000;
+  white-space: nowrap;
+  border-radius: 4px;
+  color: #444;
+  background-color: #eaeaea; }
+
+/*
+*  --------------------inicia--SCROLL-----------------------------------------
+*/
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\00003321}}
+.block.block-scroll {
+  /*height: 100vh;*/ }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\00003325}}
+.block-scroll {
+  /*height: 100vh;*/
+  margin-top: 0;
+  margin-bottom: 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\00003331}}
+.block-scroll-img {
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center center; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\00003338}}
+.block-scroll-solid {
+  /*padding: 20px;*/
+  /*vertical-align: baseline;*/ }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\00003343}}
+.block-scroll-1 {
+  /*background-color: #000;*/
+  background-image: url(../images/ceaucari.svg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  /*padding: 0% 100% 0% 0%;*/
+  height: 100vh; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\00003354}}
+.block-scroll-2 p {
+  font-size: 5em;
+  font-weight: bold;
+  text-align: center;
+  font-family: Tahoma, Geneva, sans-serif; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\00003361}}
+.block-scroll-2 img {
+  display: inline-block;
+  height: 1em;
+  margin-left: .5em; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\00003368}}
+.block-scroll-2, .block-nivo-slider {
+  /*background-image: url(../images/2.jpg);*/
+  background-color: #c3c3c3;
+  padding: 10% 10% 10% 10%; }
+
+/*.block-scroll-2 p{
+    background-color: #c3c3c3;
+    position: relative;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+.block-scroll-2 img{
+    background-color: #c3c3c3;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}*/
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\00003390}}
+.block-scroll-3 {
+  background-image: url(../images/mnt.jpg);
+  padding: 25% 10% 25% 10%;
+  height: 100vh; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\00003400}}
+#block-block-4 .block-content {
+  height: 100hv; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\00003404}}
+.block-scroll-4 p {
+  position: relative;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%); }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\00003413}}
+.block-scroll-4 img {
+  background-color: #c3c3c3;
+  display: block;
+  margin-left: auto;
+  margin-right: auto; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\00003419}}
+.cd-fixed-bg.cd-bg-4 {
+  /*background-image: url(../images/4.jpg);*/ }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\00003423}}
+.block-scroll h1 {
+  margin-top: 0;
+  margin-bottom: 0; }
+
+/*
+*  --------------------termina--SCROLL-----------------------------------------
+*/
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\00003432}}
+.view-display-id-block_archive h3 {
+  cursor: pointer;
+  margin: 0;
+  font-size: 1em;
+  font-weight: normal;
+  padding: 6px 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\00003439}}
+.view-display-id-block_archive ul {
+  list-style: none;
+  width: 220px;
+  /* prevents slide jump in jQuery - modify as needed */ }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\00003443}}
+.view-display-id-block_archive ul li {
+  background: none;
+  line-height: 130%;
+  padding: 3px 0 5px; }
+
+/*
+------------------------------BLOCK CONVERT-----------------------------------
+*/
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\00003453}}
+.block-convert {
+  margin: 0px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  padding: 20px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\00003461}}
+.block-convert span {
+  display: block;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  background-color: #fff;
+  border-radius: 3px;
+  -moz-border-radius: 3px;
+  -webkit-border-radius: 3px;
+  border: 0px solid #b6b7b8;
+  padding: 20px;
+  text-align: center; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\00003475}}
+.block-convert a {
+  vertical-align: middle; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\00003479}}
+.nivoSlider {
+  position: relative;
+  max-width: 700px;
+  height: auto;
+  overflow: hidden;
+  margin-left: auto;
+  margin-right: auto; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\00003487}}
+.nivo-caption {
+  background: transparent; }
+
+/*
+-------------------------------------------- REGION MAPAS (VIDEO)
+*/
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\00003495}}
+.mapas-wrapper {
+  background-color: #222; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\00003499}}
+.region-mapas {
+  max-width: 80%;
+  margin: auto; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\00003504}}
+.player {
+  text-align: center;
+  margin-right: 1%;
+  margin-left: 1%; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\00003510}}
+#block-block-5, .block-locale {
+  display: inline-block;
+  float: right;
+  margin-left: 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\00003516}}
+ul.language-switcher-locale-url {
+  margin-bottom: 0;
+  padding: 15px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\00003521}}
+ul.language-switcher-locale-url li {
+  display: inline;
+  color: #999; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\00003526}}
+ul.language-switcher-locale-url li a {
+  color: #999; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\00003530}}
+ul.language-switcher-locale-url li a:hover {
+  color: #fff;
+  text-decoration: none; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\00003535}}
+ul.language-switcher-locale-url li a.active {
+  color: #d33;
+  font-weight: bold; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\00003540}}
+ul.language-switcher-locale-url li a.active:hover {
+  color: #d33;
+  cursor: crosshair; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\00003545}}
+ul.language-switcher-locale-url li.last:before {
+  content: "/ "; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\00003549}}
+ul.social-nav {
+  height: 50px;
+  padding-left: 0px;
+  margin-bottom: 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\00003555}}
+ul.social-nav li {
+  display: inline-block; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\00003559}}
+ul.social-nav li a {
+  display: block;
+  height: 50px;
+  width: 50px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\00003565}}
+ul.social-nav li a:hover {
+  fill: #896d3d; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\00003569}}
+.social-nav .twitter {
+  background-image: url(../images/icons/Twitter.svg); }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\00003573}}
+.social-nav .facebook {
+  background-image: url(../images/icons/Facebook.svg); }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\00003577}}
+.social-nav .youtube {
+  background-image: url(../images/icons/YouTube.svg); }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\00003581}}
+.social-nav .google-plus {
+  background-image: url(../images/icons/Google-plus.svg); }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\00003585}}
+.social-nav .drupal {
+  background-image: url(../images/icons/Drupal.svg); }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\00003589}}
+.social-nav .github {
+  background-image: url(../images/icons/Github.svg); }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\00003593}}
+.social-nav .rss {
+  background-image: url(../images/icons/RSS.svg); }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\00003597}}
+#block-quicktabs-posts ul.quicktabs-tabs li {
+  display: inline-block;
+  position: relative;
+  top: -15px;
+  height: 20px;
+  width: 20px;
+  padding: 0;
+  overflow: hidden;
+  float: right;
+  margin-left: 10px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\00003610}}
+#quicktabs-posts > ul > li a {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  padding-top: 30px;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\00003621}}
+#quicktabs-posts > ul > li.first a {
+  background: url(../images/icons/icon-teaser-20.svg); }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\00003625}}
+#quicktabs-posts > ul > li.last a {
+  background: url(../images/icons/icon-list-20.svg); }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\00003629}}
+#quicktabs-posts > ul > li.active a {
+  background-position: 0px 20px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\00003633}}
+#block-ds-extras-about-the-post {
+  margin-top: 20px;
+  padding: 15px;
+  /*border-right: 1px solid #eeeeee;*/ }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\00003639}}
+#block-ds-extras-about-the-post .field-items {
+  float: right; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/CC\/Documents\/WEB\/LINODE\/1\/themes\/lmnt\/scss\/lmnt\.scss}line{font-family:\00003643}}
+.views-field-created .field-content {
+  color: #ababab;
+  margin-left: 10px; }

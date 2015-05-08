@@ -1,0 +1,50 @@
+name = LMNT theme
+description = a bootstrap subtheme for drupal
+core = 7.x
+base theme = bootstrap
+
+regions[sidebar_extra]     = 'Sidebar Extra'
+regions[navigation]        = 'Navigation'
+regions[yamm]              = 'Yamm'
+regions[mapas]             = 'Mapas'
+regions[slider]            = 'Slider'
+regions[highlighted]       = 'Highlighted'
+regions[help]              = 'Help'
+regions[sidebar_first]     = 'Sidebar First'
+regions[sidebar_second]    = 'Sidebar Second'
+regions[filters]           = 'Filters'
+regions[content_top]       = 'Content Top'
+regions[content]           = 'Content'
+regions[content_bottom]    = 'Content Bottom'
+regions[postscript_top]    = 'Postscript Top'
+regions[postscript_bottom] = 'Postscript Bottom'
+regions[footer]            = 'Footer'
+
+
+stylesheets[all][] = css/lmnt.css
+stylesheets[all][] = css/sidebar-extra.css
+stylesheets[all][] = css/animate.css
+stylesheets[all][] = css/yamm.css
+
+
+scripts[] = js/script.js
+
+; --------------------------------------------------------------------------------
+; Enable Skinr integration.
+; --------------------------------------------------------------------------------
+
+skinr[api]                                  = 2
+skinr[directory]                            = skins
+
+settings[toggle_name] = 0
+settings[toggle_search] = 1
+settings[toggle_responsive] = 1
+settings[sidebar_first_width] = 3
+settings[sidebar_second_width] = 3
+settings[print_content] = 1
+settings[nav_style] = 0
+settings[collapse] = 1
+settings[container] = 0
+settings[row] = 0
+
+
